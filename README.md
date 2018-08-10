@@ -30,7 +30,8 @@ C:\app\machinelearningpart1>python intro.py
 
 ## Documentation
 
-For more information, please visit the [blog post](https://valuedate.io/) blog post.
+For more information, please visit the [blog post](https://valuedate.io/aboutus/blog/machinelearningkickoff) blog post.
+
 
 
 
