@@ -9,6 +9,7 @@ from sklearn.naive_bayes import GaussianNB
 from sklearn.svm import SVC
 
 # load dataset
+# This data was obtained from https://www.kaggle.com/c/titanic/data and changed for test purposes
 url = "train.csv"
 names = ['PassengerId','Pclass','Sex','Age','SibSp','Parch','FamSize','Fare','Embarked','Survived']
 
